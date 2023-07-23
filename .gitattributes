@@ -1,2 +1,2 @@
 * linguist-vendored
-*.nix linguist-vendored=false
+*.nix linguist-vendored=true
